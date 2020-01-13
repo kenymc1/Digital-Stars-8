@@ -9,7 +9,7 @@ npm, javascript, html, sass, & firebase
 
 
 ## How to deploy
-* Clown down this project
+* Clone down this project
 * Insall[ http-server](https://www.npmjs.com/)
 from npm
 * At the root of this project run the following command npm start -8080`;
